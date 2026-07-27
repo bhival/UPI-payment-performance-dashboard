@@ -36,8 +36,6 @@ upi-payment-performance-dashboard/
 │   ├── sql_answers.md                     # Query outputs & business interpretations
 │   └── dashboard_guide.md                 # Step-by-step Tableau build guide
 │
-├── 📁 assets/
-│   └── dashboard_preview.png              # Screenshot of final dashboard
 │
 └── README.md
 ```
@@ -180,10 +178,10 @@ SOURCE sql/SQL_Queries.sql;
 
 ## 👤 Author
 
-**[Your Name]**
+**Bhival Sahu**
 Data Analyst | Python · SQL · Tableau
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![Tableau Public](https://img.shields.io/badge/Tableau-View%20Dashboard-orange)](https://public.tableau.com/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/bhivalsahu/)
+[![Tableau Public](https://public.tableau.com/app/profile/bhival.sahu/vizzes)
 
 
