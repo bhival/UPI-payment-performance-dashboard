@@ -25,16 +25,20 @@ upi-payment-performance-dashboard/
 │   ├── upi_transaction_dataset.csv        # Final generated dataset (15,000 rows)
 │   └── generate_dataset.py                # Python script used to generate the data
 │
+├── 📁 docs/
+│   ├── problem_statement.md               # Full project brief
+│   ├── sql_answers.md                     # Query outputs & business interpretations
+│   └── dashboard_guide.md                 # Step-by-step Tableau build guide
+│
+├── 📁 image/
+│   └── UPI dashboard Screenshot.png       # Image screenshort of the tableau dashboard             
+│
 ├── 📁 sql/
 │   └── SQL_Queries.sql                    # All 10 queries in one file
 │
 ├── 📁 tableau/
 │   └── upi_dashboard.twbx                 # Packaged Tableau workbook (upload here)
 │
-├── 📁 docs/
-│   ├── problem_statement.md               # Full project brief
-│   ├── sql_answers.md                     # Query outputs & business interpretations
-│   └── dashboard_guide.md                 # Step-by-step Tableau build guide
 │
 │
 └── README.md
